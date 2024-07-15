@@ -1,6 +1,6 @@
 "use client"
 import React, {useState} from 'react'
-import "./MainHeader.css"
+import "./Mainheader.css"
 import Link from 'next/link'
 
 const MainHeader = () => {
